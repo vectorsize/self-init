@@ -1,0 +1,12 @@
+{
+  "name": "self-init",
+  "exports": "selfInit",
+  "version": "0.1.0",
+  "description": "Simple property initializer. Takes an options object and initializes the properties on the bound object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Saiz",
+  "license": "BSD-3"
+}
